@@ -10,8 +10,8 @@ import os
 
 print('''
 
-Sistem of check IPv4 invalid and IPv4 valid
-Autor: Felipe Lira
+System of check IPv4 invalid and IPv4 valid
+Author: Felipe Lira
 ''')
 
 print('\n')
